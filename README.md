@@ -18,11 +18,23 @@
 
 ---
 
-# 💻 Teknolojiler
+# 🛠️ Araçlar & Teknolojiler
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,linux,git" />
 </p>
+
+---
+
+## 🔐 Siber Güvenlik Araçları
+
+- Burp Suite  
+- Nmap  
+- Wireshark  
+- Metasploit Framework  
+- Nikto  
+- SQLmap  
+- Hydra  
 
 ---
 
