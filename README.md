@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Merhaba, ben NoXiVaR
 
-<!--
-**NoXiVaR/NoXiVaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Siber Güvenlik Araştırmacısı • Sızma Testi Uzmanı • Web Güvenliği • Backend Geliştirici**
 
-Here are some ideas to get you started:
+Siber güvenlik ve web uygulama güvenliği üzerine çalışıyorum. Backend geliştirme öğreniyor ve güvenlik odaklı projeler geliştiriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Hakkımda
+
+- 🔐 Siber güvenlik öğreniyorum ve araştırıyorum  
+- 🌐 Web uygulama güvenliği ile ilgileniyorum  
+- 💻 Backend geliştirme üzerine çalışıyorum  
+- 🛠️ Güvenlik araçları ve otomasyon projeleri geliştiriyorum  
+- 📚 Sürekli yeni şeyler öğreniyorum  
+
+---
+
+## 💻 Bildiğim Teknolojiler
+
+- Python  
+- JavaScript  
+- HTML  
+- CSS  
+
+---
+
+## 🎯 İlgi Alanlarım
+
+- Web Uygulama Güvenliği  
+- Sızma Testi (Penetration Testing)  
+- Backend Geliştirme  
+- Otomasyon  
+- Açık Kaynak Projeler  
+
+---
+
+## 📫 İletişim
+
+Benimle aşağıdaki platformlardan iletişime geçebilirsin:
+
+- 📸 Instagram: :contentReference[oaicite:0]{index=0}  
+- 🐦 X (Twitter): :contentReference[oaicite:1]{index=1}  
+- 💬 Telegram: :contentReference[oaicite:2]{index=2}  
+- 💬 Discord: `noxivar_`
+
+---
+
+## 🎯 Hedefim
+
+Güvenli sistemler geliştirmek, siber güvenlik alanında kendimi geliştirmek ve açık kaynak dünyasına katkı sağlamak.
+
+---
+
+⭐ “Güvenlik bir ürün değil, süreçtir.”
