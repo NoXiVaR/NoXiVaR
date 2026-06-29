@@ -1,55 +1,60 @@
-# 👋 Merhaba, ben NoXiVaR
+<h1 align="center">👋 Merhaba, ben NoXiVaR</h1>
 
-**Siber Güvenlik Araştırmacısı • Sızma Testi Uzmanı • Web Güvenliği • Backend Geliştirici**
-
-Siber güvenlik ve web uygulama güvenliği üzerine çalışıyorum. Backend geliştirme öğreniyor ve güvenlik odaklı projeler geliştiriyorum.
+<h3 align="center">Siber Güvenlik Araştırmacısı • Sızma Testi Uzmanı • Web Güvenliği • Backend Geliştirici</h3>
 
 ---
 
-## 🚀 Hakkımda
+## 🧠 Hakkımda
 
-- 🔐 Siber güvenlik öğreniyorum ve araştırıyorum  
-- 🌐 Web uygulama güvenliği ile ilgileniyorum  
-- 💻 Backend geliştirme üzerine çalışıyorum  
-- 🛠️ Güvenlik araçları ve otomasyon projeleri geliştiriyorum  
-- 📚 Sürekli yeni şeyler öğreniyorum  
+- 🔐 Siber güvenlik alanında kendimi geliştiriyorum  
+- 🌐 Web uygulama güvenliği üzerine çalışıyorum  
+- 💻 Backend geliştirme öğreniyorum  
+- 🛠️ Güvenlik araçları ve otomasyon geliştiriyorum  
+- 📚 Sürekli öğrenmeye devam ediyorum  
 
 ---
 
-## 💻 Bildiğim Teknolojiler
+## 💻 Teknolojiler
 
-- Python  
-- JavaScript  
-- HTML  
-- CSS  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NoXiVaR&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoXiVaR&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 🎯 İlgi Alanlarım
 
-- Web Uygulama Güvenliği  
-- Sızma Testi (Penetration Testing)  
-- Backend Geliştirme  
-- Otomasyon  
-- Açık Kaynak Projeler  
+- Web Application Security  
+- Penetration Testing  
+- Backend Development  
+- Automation  
+- Open Source  
 
 ---
 
 ## 📫 İletişim
 
-Benimle aşağıdaki platformlardan iletişime geçebilirsin:
-
-- 📸 Instagram: :contentReference[oaicite:0]{index=0}  
-- 🐦 X (Twitter): :contentReference[oaicite:1]{index=1}  
-- 💬 Telegram: :contentReference[oaicite:2]{index=2}  
-- 💬 Discord: `noxivar_`
+- 📸 Instagram: https://instagram.com/noxivarofc  
+- 🐦 X: https://x.com/NoXiVaR_  
+- 💬 Telegram: http://t.me/NoXiVaR  
+- 💬 Discord: **noxivar_**
 
 ---
 
-## 🎯 Hedefim
+## ⚡ Motto
 
-Güvenli sistemler geliştirmek, siber güvenlik alanında kendimi geliştirmek ve açık kaynak dünyasına katkı sağlamak.
-
----
-
-⭐ “Güvenlik bir ürün değil, süreçtir.”
+<p align="center">
+  <b>“Güvenlik bir ürün değil, süreçtir.”</b>
+</p>
