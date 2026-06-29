@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=900&lines=NOXIVAR;Siber+Güvenlik+Araştırmacısı;Sızma+Testi+Uzmanı;Web+Güvenliği;Backend+Geliştirici" />
+   <img src="https://readme-typing-svg.herokuapp.com/?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+NoXiVaR;Siber+Güvenlik+Araştırmacısı;Sızma+Testi+Uzmanı;Web+Güvenliği;Backend+Developer" />
 </p>
 
 <p align="center">
