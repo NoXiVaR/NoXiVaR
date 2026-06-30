@@ -13,12 +13,14 @@
 - 🔐 Siber güvenlik alanında kendimi geliştiriyorum  
 - 🌐 Web uygulama güvenliği ile ilgileniyorum  
 - 💻 Backend geliştirme öğreniyorum  
-- 🛠️ Güvenlik araçları ve otomasyon geliştiriyorum  
+- 🛠️ Güvenlik ve otomasyon projeleri geliştiriyorum  
 - 📚 Sürekli yeni şeyler öğreniyorum  
 
 ---
 
 # 🛠️ Araçlar & Teknolojiler
+
+## 💻 Programlama & Sistem
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,linux,git" />
@@ -26,15 +28,11 @@
 
 ---
 
-## 🔐 Siber Güvenlik Araçları
+## 🔐 Siber Güvenlik Araçları (ikonlu)
 
-- Burp Suite  
-- Nmap  
-- Wireshark  
-- Metasploit Framework  
-- Nikto  
-- SQLmap  
-- Hydra  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=burpsuite,nmap,wireshark,metasploit" />
+</p>
 
 ---
 
