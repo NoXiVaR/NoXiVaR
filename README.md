@@ -12,7 +12,7 @@
 
 - 🔐 Siber güvenlik alanında kendimi geliştiriyorum  
 - 🌐 Web uygulama güvenliği ile ilgileniyorum  
-- 💻 Backend geliştirme öğreniyorum  
+- 💻 Full Stack geliştirme öğreniyorum  
 - 🛠️ Güvenlik ve otomasyon projeleri geliştiriyorum  
 - 📚 Sürekli yeni şeyler öğreniyorum  
 
@@ -44,7 +44,7 @@
 
 - Web Application Security  
 - Penetration Testing  
-- Backend Development  
+- Full Stack Development  
 - Automation  
 - Open Source  
 
