@@ -50,18 +50,6 @@
 
 ---
 
-# 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoXiVaR&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoXiVaR&layout=compact&theme=radical" />
-</p>
-
----
-
 # 📫 İletişim
 
 - 📸 Instagram: https://instagram.com/noxivarofc  
