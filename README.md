@@ -20,19 +20,26 @@
 
 # 🛠️ Araçlar & Teknolojiler
 
-## 💻 Programlama & Sistem
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,linux,git,vscode,github,figma" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,linux,git" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004A7C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge" />
 </p>
 
 ---
 
-## 🔐 Siber Güvenlik Araçları (ikonlu)
+# 🎯 İlgi Alanlarım
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=burpsuite,nmap,wireshark,metasploit" />
-</p>
+- Web Application Security  
+- Penetration Testing  
+- Backend Development  
+- Automation  
+- Open Source  
 
 ---
 
@@ -45,16 +52,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoXiVaR&layout=compact&theme=radical" />
 </p>
-
----
-
-# 🎯 İlgi Alanlarım
-
-- Web Application Security  
-- Penetration Testing  
-- Backend Development  
-- Automation  
-- Open Source  
 
 ---
 
